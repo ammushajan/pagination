@@ -1,0 +1,49 @@
+.mobile-card {
+    width: 32%;
+    display: inline-block;
+    border: 3px solid brown;
+    text-align: center;
+    margin:4px;
+    font-family: Cambria;
+    color:navy
+    
+}
+.mobile-type
+{
+    border:3px solid black;  
+    margin:5px;
+}
+.mobile-section{
+    border:3px solid black;  
+    margin:5px;
+}
+.mobile-heading
+{
+    color:red;
+    font-size: 30px;
+    font-family: Cambria;
+    text-align: center;
+}
+.mobile-card-template{
+    display: none;
+}
+.page-button
+{
+   float: right;
+    
+}
+.page
+{
+    display: none;
+}
+button
+{
+    border: 3px solid black;
+    border-radius: 10px;
+    margin:5px;
+}
+.clearfix{
+    content: "";
+    display: table;
+    clear: both;
+  }
